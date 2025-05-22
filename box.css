@@ -1,0 +1,15 @@
+.feature-box{
+    background: #000000;
+    border : 2px solid #b6009b;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 700px;
+    margin: 20px auto;
+    box-shadow: 0 2px 8px rgba(232, 97, 97, 0.1);
+}
+.payment-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
